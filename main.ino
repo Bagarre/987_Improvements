@@ -4,6 +4,7 @@
    If it's night, turn off the foglights and ON the headlights adn sidemarkers.
    If It's day for more than 30 seconds, turn ON the foglights and OFF the headlights and sidemarkers.
 
+   Lights work normally in any other switch position and 'Home' feature still works as well.
 */
 
 
